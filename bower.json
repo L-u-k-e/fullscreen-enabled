@@ -1,6 +1,6 @@
 {
   "name": "fullscreen-enabled",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "authors": [
     "Luke Parzych <lukeepar@gmail.com>"
   ],
@@ -19,7 +19,6 @@
   "ignore": [
     "/.*",
     "/test/",
-    "/demo/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.x",
