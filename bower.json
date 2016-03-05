@@ -29,6 +29,6 @@
     "paper-styles": "PolymerElements/paper-styles#^1.1.4"
   },
   "devDependencies": {
-    "web-component-tester": "*",
+    "web-component-tester": "*"
   }
 }
