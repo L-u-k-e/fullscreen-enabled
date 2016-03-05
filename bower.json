@@ -1,6 +1,6 @@
 {
   "name": "fullscreen-enabled",
-  "version": "0.5.1",
+  "version": "0.5.0",
   "authors": [
     "Luke Parzych <lukeepar@gmail.com>"
   ],
@@ -22,13 +22,13 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.x",
-    "lodash": "^3.7.0"
-  },
-  "devDependencies": {
+    "lodash": "^3.7.0",
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "web-component-tester": "*",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^1.0.0",
     "paper-styles": "PolymerElements/paper-styles#^1.1.4"
+  },
+  "devDependencies": {
+    "web-component-tester": "*",
   }
 }
