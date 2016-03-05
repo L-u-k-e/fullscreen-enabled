@@ -1,13 +1,17 @@
 # fullscreen-enabled
+   
+This behavior teaches elements how to use the Fullscreen API.
 
-An element providing a starting point for your own reusable Polymer elements.
+Just toggle the <code>fullscreen</code> property!
+
+A callback named: <code>_fullscreen_changed(new_value, old_value)</code> is also provided. 
 
 
 ## Dependencies
 
-###This behavior requires that an instance of lodash be instantiated in the global scope prior to its instantiation. 
+**This behavior requires that an instance of lodash be instantiated in the global scope prior to its instantiation.**
 
-Element dependencies are managed via [Bower](http://bower.io/). You can
+All dependencies are managed via [Bower](http://bower.io/). You can
 install that via:
 
     npm install -g bower
