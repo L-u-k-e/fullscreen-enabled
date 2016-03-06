@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "web-component-tester": "*"
+  },
+  "resolutions": {
+    "lodash": "^4.6.1"
   }
 }

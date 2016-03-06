@@ -7,15 +7,15 @@
     <title>fullscreen-enabled Demo</title>
 
     <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="../../lodash/lodash.min.js"></script>
+    <script src="../../lodash/dist/lodash.min.js"></script>
 
     <link rel="import" href="a-cat.html">
     <link rel="import" href="../../iron-flex-layout/iron-flex-layout.html">
-    <style>
+    <style is="custom-style">
       body {
         height: 100vh;
         @apply(--layout-horizontal);
-        @apply(--layout-center);
+        @apply(--layout-center-center);
       }
       a-cat {
         width: 50%;
