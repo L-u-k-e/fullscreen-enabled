@@ -13,15 +13,15 @@ Check out the [component page](http://l-u-k-e.github.io/fullscreen-enabled/compo
 ### Use it in your element
 
 This behavior is added to the `Behaviors` namespace. 
-
-   ...
-   <script>
+    
+    ...
+    <script>
       Polymer({
-         is: 'video-player',
-         behvaiors: [Behaviors.fullscreen_enabled],
-         ...
+        is: 'video-player',
+        behvaiors: [Behaviors.fullscreen_enabled],
+        ...
       });
-   </script>
-   ...
+    </script>
+    ...
    
    
