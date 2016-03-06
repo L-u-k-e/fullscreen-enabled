@@ -14,7 +14,6 @@ Check out the [component page](http://l-u-k-e.github.io/fullscreen-enabled/compo
 
 This behavior is added to the `Behaviors` namespace. 
     
-    ...
     <script>
       Polymer({
         is: 'video-player',
@@ -22,6 +21,7 @@ This behavior is added to the `Behaviors` namespace.
         ...
       });
     </script>
-    ...
+
+Once you've mixed the behavior into your element, toggling full screen is as simple as toggling the `fullscreen` property.
    
    
