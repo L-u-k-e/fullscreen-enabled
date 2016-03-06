@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.x",
-    "lodash": "^3.7.0",
+    "lodash": "^4.6.1",
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^1.0.0",
