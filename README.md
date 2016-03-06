@@ -18,7 +18,7 @@ This behavior is added to the `Behaviors` namespace.
     <script>
       Polymer({
         is: 'video-player',
-        behvaiors: [Behaviors.fullscreen_enabled],
+        behaviors: [Behaviors.fullscreen_enabled],
         ...
       });
     </script>
