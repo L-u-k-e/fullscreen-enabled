@@ -10,7 +10,8 @@ Check out the [component page](http://l-u-k-e.github.io/fullscreen-enabled/compo
 ## Use it in your element
 
 This behavior is added to the `Behaviors` namespace. 
-    
+
+    <link rel="import" href="../bower_components/fullscreen-enabled/fullscreen-enabled.html">
     <script>
       Polymer({
         is: 'video-player',
