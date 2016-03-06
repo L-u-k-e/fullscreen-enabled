@@ -7,6 +7,8 @@ Check out the [component page](http://l-u-k-e.github.io/fullscreen-enabled/compo
 **This behavior requires that an instance of lodash be instantiated in the global scope prior to its instantiation.**
 
 
+## Use it in your element
+
 This behavior is added to the `Behaviors` namespace. 
     
     <script>
@@ -25,7 +27,7 @@ Once you've mixed the behavior into your element, toggling full screen is as sim
     bower install --save L-u-k-e/fullscreen-enabled
     
 
-# Note
+## Note
 
 The demo is currently broken. `iron-component-page` places the code inside an `<iframe>` that doesn't have the `allowfullscreen` property, so the `<iframe>` blocks the element from going full screen ಠ_ಥ .
 
